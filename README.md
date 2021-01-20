@@ -7,8 +7,8 @@ Ademas, algunos analisis fundamentales sobre el area del triangulo de Sierpinski
 
 Algunos resultados que podras ver en este repositorio:
 
-![Tree](/images/Tree.png)
+![Tree](/Images/Tree.png)
 
-![Beach](/images/Beach.png)
+![Beach](/Images/Beach.png)
 
-![Pascal](/images/PascalTriangle.png)
+![Pascal](/Images/PascalTriangle.png)
